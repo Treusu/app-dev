@@ -1,5 +1,7 @@
 # app-dev
 My nth repository
+Name: Richard Cubia
+Section: BSIT-505
 <div align="center">
 
 # ![image](https://github.com/user-attachments/assets/36e48651-a95a-4180-b2f6-80d5fefa3948)
